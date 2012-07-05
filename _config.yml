@@ -13,7 +13,7 @@ title : srcery.js
 tagline: Where src='magic'!
 author :
   name : Srcery Inc.
-  email : scottalanhenry@gmail.com
+  email : scott.alan@att.net
   github : fuzzybutter
   twitter : fuzzybutter
 
@@ -27,7 +27,7 @@ srcery_url: 'http://srcery.net/srcery'
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://fuzzybutter.github.com/srcery.js
+production_url : http://fuzzybutter.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
